@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<HTML>
+  <head>
+     <title>
+       SRAM Red AXS 
+     </title>
+  </head>
+  <body bgcolor="#D30000">
+     <H1>
+       NEW SRAM RED AXS
+     </h1>
+  </body>
+</HTML>
